@@ -1,0 +1,2 @@
+# Strzelanka
+Indywidualny Projekt Programistyczny
